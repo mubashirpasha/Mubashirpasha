@@ -98,15 +98,7 @@ Turning ideas into creative digital solutions.
 
 ---
 
-## 🏆 GITHUB CONTRIBUTION GRAPH
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mubashirpasha&bg_color=0D1117&color=00D4FF&line=0055FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
 
 ## 🌟 MY PORTFOLIO
 
@@ -136,9 +128,7 @@ Turning ideas into creative digital solutions.
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="100%"/>
 
-<br/><br/>
 
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
